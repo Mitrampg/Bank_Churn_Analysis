@@ -1,4 +1,4 @@
-# Bank_Churn_Analysis
+# Bank Customers Churn Analysis
 
 In this assignment, I performed some data transformations using python. Apart from that, I also carried out analysis with the help of visualization libraries such as Matplotlib and Seaborn, as well as some statistical analysis with the help of Scipy. 
 
